@@ -1,0 +1,1223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yang-attachment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-16 14:43+0800\n"
+"PO-Revision-Date: 2012-05-15 19:07+0800\n"
+"Last-Translator: yang <i@yangjunwei.com>\n"
+"Language-Team: haibor <haibor@nuodou.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext_noop:1,2;_x;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: D:\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:40
+msgid "Edit File"
+msgstr "编辑文件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:92
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:748
+msgid "Error: Please give me a valid URL."
+msgstr "错误：请填写正确的URL。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:147
+#, php-format
+msgid "Error In Editing File '%s (%s)'"
+msgstr "编辑文件 '%s (%s)' 时出错"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:151
+#, php-format
+msgid "File '%s (%s)' Edited Successfully"
+msgstr "文件 '%s (%s)' 编辑成功"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:158
+msgid "Delete File"
+msgstr "删除文件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:175
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:225
+msgid "Error file_id!File id does not exists."
+msgstr "错误的文件id, 文件不存在。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:176
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:226
+msgid "Return"
+msgstr "返回"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:245
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:246
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:968
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:543
+msgid "unknown"
+msgstr "未知"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:259
+msgid "Download Stats"
+msgstr "下载统计"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:263
+msgid "Total Files:"
+msgstr "文件总数："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:267
+msgid "Total Size:"
+msgstr "文件大小总量："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:271
+msgid "Total Hits:"
+msgstr "总下载次数"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-manager.php:275
+msgid "Total Bandwidth:"
+msgstr "下载带宽总量："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:95
+msgid "Download Path"
+msgstr "下载文件在放路径："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:96
+msgid "Download Path URL"
+msgstr "下载路径URL"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:97
+msgid "Attachment Options(Use filename or Not、Download slug、Use Nice Permalink or Not、Time Limit、Hash Function、Check HTTP Referer)"
+msgstr "选项设置(是否使用文件名、下载slug、是否使用固定链接、最长执行时间、哈希函数、强制检测HTTP来路)"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:98
+msgid "Download Method"
+msgstr "下载方法"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:99
+msgid "Download Display Type"
+msgstr "下载模板类型"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:100
+msgid "Download Custom CSS"
+msgstr "自定义CSS"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:101
+msgid "Download Popup Template"
+msgstr "下载模板（popup）"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:102
+msgid "Download Embedded Template"
+msgstr "嵌入下载模板"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:108
+msgid "Updated"
+msgstr "更新"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:140
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:143
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:428
+msgid "Attachment Options"
+msgstr "选项设置"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:148
+msgid "Upload Path:"
+msgstr "上传路径："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:156
+msgid "The absolute path to the directory where all the files are stored (without trailing slash)."
+msgstr "保存上传文件的绝对路径（结尾不要加 / ）"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:161
+msgid "Upload Path URL:"
+msgstr "文件的完整 URL 地址:"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:169
+msgid "The url to the directory where all the files are stored (without trailing slash)."
+msgstr "访问文件存放目录的URL（结尾不要加 / ）"
+
+msgid "Permalink Settings"
+msgstr "固定链接设置"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:183
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:67
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:101
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:315
+msgid "File ID"
+msgstr "文件ID"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:200
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:319
+msgid "File Name"
+msgstr "文件名"
+
+msgid "Custom Style"
+msgstr "自定义样式"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:212
+msgid "Change it to <strong>File ID</strong> when you encounter 404 error."
+msgstr "当你遇到404错误时，请修改它为<strong>文件ID</strong>."
+
+msgid "Permalink Style"
+msgstr "固定链接伪静态样式"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:227
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:147
+msgid "Yes"
+msgstr "是"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:246
+msgid "No"
+msgstr "否"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:256
+msgid "Change it to <strong>No</strong> when you encounter 404 error."
+msgstr "当你遇到404错误时，请修改它为<strong>否</strong>."
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:263
+msgid "Download Slug:"
+msgstr "下载slug"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:272
+msgid "This only affects when you have enabled <strong>Permalink Style</strong> ."
+msgstr "该选项只在勾选使用 <strong>固定链接伪静态样式</strong> 时才有效。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:279
+msgid "Remote Download Time Limit:"
+msgstr "远程文件下载超时限制："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:286
+msgid "Minutes"
+msgstr "分钟"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:290
+msgid "This only affects when the plugin are downloading <strong>Remote File</strong> to your local server."
+msgstr "该选项只在保存<strong>远程文件</strong>到本地服务器时才有效。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:297
+msgid "Hash Function:"
+msgstr "哈希函数："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:313
+msgid "Download Method:"
+msgstr "下载方式："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:319
+msgid "Output File"
+msgstr "输出文件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:324
+msgid "Redirect To File"
+msgstr "直接跳转到文件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:328
+msgid "Change it to <strong>Redirect To File</strong> when you have problem with large files."
+msgstr "当下载大文件有问题时，请修改它为<strong>直接跳转到文件</strong>."
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:335
+msgid "Check HTTP referer:"
+msgstr "强制检测HTTP来路："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:342
+msgid "Not enabled"
+msgstr "不启用"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:348
+msgid "Enabled"
+msgstr "启用"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:352
+msgid "<strong>Enable this could save your a lot of bandwidth.</strong>"
+msgstr "<strong>启用该项可以为你节省相当多的带宽.</strong>"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:360
+msgid "Download display type:"
+msgstr "下载模板类型"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:367
+msgid "Embeded"
+msgstr "默认"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:373
+msgid "Popup"
+msgstr "弹出层"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:383
+msgid "Download Templates Custom CSS"
+msgstr "下载模板自定义CSS"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:387
+msgid "Restore Default CSS"
+msgstr "重置为默认CSS"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:402
+msgid "Download Templates (With Permission)"
+msgstr "下载模板（有权限）"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:407
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:492
+msgid "Download Template"
+msgstr "下载模板"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:410
+msgid "Displayed when you embedded a file within a post or a page and users have permission to download the file."
+msgstr "当你在文章或页面中嵌入了文件并且用户有权限下载该文件时会显示这个。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:414
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:453
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:499
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:542
+msgid "Allowed Variables:"
+msgstr "允许的变量："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:432
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:471
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:517
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:560
+msgid "Restore Default Template"
+msgstr "重置为默认模板"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:446
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:535
+msgid "Download popup div template"
+msgstr "下载模板(popup div)"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:449
+msgid "Displayed the download info in a popup window when you embedded a file within a post or a page and users have permission to download the file."
+msgstr "当你在文章或页面中嵌入了文件并且用户有权限下载该文件时会在一popup div中显示这个。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:486
+msgid "Download Templates (Without Permission)"
+msgstr "下载模板（无权下载）"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:495
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:538
+msgid "Displayed when you embedded a file within a post or a page and users <strong>DO NOT</strong> have permission to download the file."
+msgstr "当你在文章或页面中嵌入了文件并且用户 <strong>没有</strong>权限下载该文件时会显示这个。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/yangam-options.php:576
+msgid "Save Changes"
+msgstr "保存所有更改"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:50
+#, php-format
+msgid "Table '%s' has been deleted."
+msgstr "表 '%s' 已经被成功删除."
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:59
+#, php-format
+msgid "Setting Key '%s' has been deleted."
+msgstr "配置选项'%s' 已经被成功删除."
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:63
+#, php-format
+msgid "Error deleting Setting Key '%s'."
+msgstr "删除配置选项 '%s' 出错."
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:69
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:109
+msgid "The files uploaded by yang-attachment <strong>WILL NOT</strong> be deleted. You will have to delete it manually."
+msgstr "由插件 yang-attachment 上传的文件不会被删除。你可以手动删除它们。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:71
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:110
+#, php-format
+msgid "The path to the attachments folder is <strong>'%s'</strong>."
+msgstr "附件目录的路径为 <strong>'%s'</strong>."
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:92
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:105
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:429
+msgid "Uninstall yang-attachment"
+msgstr "卸载插件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:93
+#, php-format
+msgid "Uninstall successfully! <a href=\"%s\">Click Here</a> To Finish The Uninstallation And yang-attachment Will Be Deactivated Automatically."
+msgstr "卸载成功！<a href=\"%s\"><b>点击这里</b></a> 继续插件的卸载，yang-attachment 将会被自动禁用."
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:106
+msgid "Deactivating yang-attachment plugin does not remove any data that may have been created, such as the attachment options and the download data. To completely remove this plugin, you can uninstall it here."
+msgstr "在后台插件管理中禁用yang-attachment插件并不会删除任何被此插件创建的数据，比如选项设置和下载文件。要完全卸载此插件，请在这里卸载它。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:108
+msgid "NOTE:"
+msgstr "注意："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:112
+msgid "WARNING:"
+msgstr "敬告："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:113
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to back up all the data first."
+msgstr "一旦卸载，数据将不可还原。建议你先使用一个数据库备份插件来备份一下所有数据。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:115
+msgid "The following WordPress Options/Tables will be DELETED:"
+msgstr "以下 WordPress 配置/表 将会被<strong>删除</strong>:"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:120
+msgid "WordPress Options"
+msgstr "WordPress 配置"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:121
+msgid "WordPress Tables"
+msgstr "WordPress 表"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/uninstall.php:152
+msgid ""
+"You Are About To Uninstall yang-attachment From WordPress.\\n"
+"This Action Is Not Reversible.\\n"
+"\\n"
+" Choose [Cancel] To Stop, [OK] To Uninstall."
+msgstr ""
+"目前你正打算从WordPress卸载 yang-attachment.\\n"
+"此操作不可逆.\\n"
+"\\n"
+"选择 [取消] 停止, [OK] 继续卸载."
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/upload-or-insert.php:31
+msgid "You do not have permission to upload files."
+msgstr "您没有权限上传文件。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/upload-or-insert.php:41
+msgid "Yang AttachmentManager"
+msgstr "Yang AttachmentManager"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/upload-or-insert.php:60
+msgid "upload a New File"
+msgstr "上传新文件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/upload-or-insert.php:62
+msgid "View Attachment"
+msgstr "附件库"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/upload-or-insert.php:66
+msgid "Post Attachment"
+msgstr "文章嵌入的附件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/update_to_yang.php:17
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/upgrade.php:19
+msgid "Permission denied!"
+msgstr "对不起，您无权访问此页面。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/upgrade.php:38
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:1066
+msgid "We have problem finding your '/wp-admin/upgrade-functions.php' and '/wp-admin/includes/upgrade.php'"
+msgstr "无法找到 '/wp-admin/upgrade-functions.php' 或 '/wp-admin/includes/upgrade.php' 文件"
+
+msgid "Delete A File"
+msgstr "删除一个文件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:559
+msgid "File:"
+msgstr "文件："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:600
+msgid "File Name:"
+msgstr "文件名："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:604
+msgid "File Description:"
+msgstr "文件描述："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:609
+msgid "File Size:"
+msgstr "文件大小："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:79
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:329
+msgid "File Hits"
+msgstr "文件下载量"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:176
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:177
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:221
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:223
+msgid "hits"
+msgstr "次"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:87
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:321
+msgid "File Date"
+msgstr "文件日期"
+
+msgid "File Updated Date:"
+msgstr "文件更新日期"
+
+msgid "File Last Downloaded Date:"
+msgstr "文件最后被下载日期"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:623
+msgid "Allowed To Download:"
+msgstr "允许下载："
+
+msgid "Delete File From Server?"
+msgstr "从服务器物理删除文件？"
+
+#, php-format
+msgid ""
+"You Are About To The Delete This File \\'%s(%s)\\'.\\n"
+"This Action Is Not Reversible.\\n"
+"\\n"
+" Choose \\'Cancel\\' to stop, \\'OK\\' to delete."
+msgstr ""
+"目前你正打算删除此文件：\\'%s(%s)\\'.\\n"
+"此操作不可逆.\\n"
+"\\n"
+"选择 [取消] 停止, [确定] 继续删除."
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:638
+msgid "Cancel"
+msgstr "取消"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:71
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:171
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:317
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_post.php:44
+msgid "File"
+msgstr "文件名"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:75
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:327
+msgid "File Size"
+msgstr "文件大小"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:83
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:331
+msgid "File Permission"
+msgstr "文件权限"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:91
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:323
+msgid "File Updated Date"
+msgstr "文件更新日期"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:95
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:325
+msgid "File Last Downloaded Date"
+msgstr "文件最后被下载日期"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:109
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:334
+msgid "Ascending"
+msgstr "升序"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:115
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:336
+msgid "Descending"
+msgstr "降序"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:153
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:426
+msgid "Manage Attachments"
+msgstr "附件库"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:154
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:422
+msgid "Attachments"
+msgstr "附件库"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:156
+#, php-format
+msgid "Displaying <strong>%s</strong> To <strong>%s</strong> Of <strong>%s</strong> Files"
+msgstr "当前显示从 <strong>%s</strong> 到 <strong>%s</strong> / 共 <strong>%s</strong> 个文件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:156
+#, php-format
+msgid "Sorted By <strong>%s</strong> In <strong>%s</strong> Order"
+msgstr "按 <strong>%s</strong> 以 <strong>%s</strong> 方式排序"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:159
+msgid "File id:"
+msgstr "文件id："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:161
+msgid "Edit it!"
+msgstr "编辑之"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:170
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_post.php:43
+msgid "ID"
+msgstr "ID"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:172
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_post.php:45
+msgid "Size"
+msgstr "大小"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:173
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_post.php:46
+msgid "Hits"
+msgstr "下载量（次）"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:174
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_post.php:47
+msgid "Permission"
+msgstr "权限"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:175
+msgid "File attached to"
+msgstr "文件附加到"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:176
+msgid "Action"
+msgstr "操作"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:186
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_post.php:59
+#, php-format
+msgid "file <strong>%s</strong> does not exists!"
+msgstr "文件 <strong>%s</strong> 不存在！"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:210
+#, php-format
+msgid "Last Updated: %s, %s"
+msgstr "最后更新: %s, %s"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:210
+#, php-format
+msgid "Last Downloaded: %s, %s"
+msgstr "最后被下载: %s, %s"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:226
+msgid "Edit"
+msgstr "编辑"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:227
+msgid "Delete"
+msgstr "删除"
+
+msgid "Trash"
+msgstr "移至回收站"
+
+msgid "Open"
+msgstr "<span style=\"color:#00ff00\">正常</span>"
+
+msgid "To Open"
+msgstr "还原"
+
+msgid "Trashed"
+msgstr "<span style=\"color:#ff0000\">已被回收</span>"
+
+msgid "Trash File"
+msgstr "回收文件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:231
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:840
+msgid "Insert into post download"
+msgstr "插入下载"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:231
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:840
+msgid "Insert into post pic"
+msgstr "插入图片"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:237
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_post.php:89
+msgid "No Files Found"
+msgstr "找不到文件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:250
+msgid "Previous Page"
+msgstr "上页"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:259
+msgid "Next Page"
+msgstr "下页"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:266
+msgid "Total Pages"
+msgstr "页面总数："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:269
+msgid "Go to First Page"
+msgstr "到第一页"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:269
+msgid "First"
+msgstr "首页"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:272
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:284
+msgid "Go to Page"
+msgstr "到第？页"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:279
+msgid "Page"
+msgstr "页"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:287
+msgid "Go to Last Page"
+msgstr "到最后一页"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:287
+msgid "Last"
+msgstr "最后"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:299
+msgid "Filter Options: "
+msgstr "过滤选项："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:300
+msgid "Keywords:"
+msgstr "关键字："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:305
+msgid "Sort Options:"
+msgstr "排序选项："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:341
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:343
+msgid "Per Page"
+msgstr "每页"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_list.php:352
+msgid "Go"
+msgstr "Go"
+
+msgid "Edit A File"
+msgstr "编辑文件"
+
+msgid "Current File:"
+msgstr "当前文件："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:562
+msgid "Local File:"
+msgstr "从附件库："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:564
+msgid "Browse Files"
+msgstr "浏览文件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:569
+#, php-format
+msgid "Please upload the file to '%s' directory first."
+msgstr "从上传目录 '%s' 中选择文件插入到文章"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:573
+msgid "Upload File:"
+msgstr "上传文件："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:576
+msgid "to"
+msgstr "到"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:587
+msgid "Remote File:"
+msgstr "远程文件："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:964
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:610
+msgid "bytes"
+msgstr "字节"
+
+msgid "Auto Detection Of File Size"
+msgstr "自动检测文件大小"
+
+msgid "File Hits:"
+msgstr "文件下载量"
+
+#, php-format
+msgid "%s hit"
+msgid_plural "%s hits"
+msgstr[0] "%s 次"
+msgstr[1] "%s 次"
+
+msgid "Reset File Hits"
+msgstr "重置文件下载次数"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:614
+msgid "File Date:"
+msgstr "文件日期："
+
+msgid "Existing Timestamp:"
+msgstr "存在的时间截"
+
+msgid "Edit Timestamp"
+msgstr "编辑时间截"
+
+msgid "Use Today's Date"
+msgstr "使用今天的日期"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:200
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:625
+msgid "Hidden"
+msgstr "隐藏"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:203
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:626
+msgid "Everyone"
+msgstr "所有人"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:206
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:627
+msgid "Registered Users Only"
+msgstr "只允许注册用户"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:209
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:628
+msgid "At Least Contributor Role"
+msgstr "至少为 Contributor  角色"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:212
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:629
+msgid "At Least Author Role"
+msgstr "至少为 Author 角色"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:215
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:630
+msgid "At Least Editor Role"
+msgstr "至少为 Editor 角色"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:218
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:631
+msgid "At Least Administrator Role"
+msgstr "至少为 Administrator 角色"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:151
+#, php-format
+msgid "Yang AttachmentManager : Please click <a href=\"%s\">here</a> to upgrade the plugin!"
+msgstr "Yang AttachmentManager : 请点击 <a href=\"%s\">这里</a>升级插件！"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:176
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:177
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:223
+msgid ","
+msgstr ","
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:177
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:223
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:657
+msgid "You do not have permission to download this file."
+msgstr "您没有权限下载此文件。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:188
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:191
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:194
+msgid "Download statement"
+msgstr "下载声明"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:191
+msgid "statement demo"
+msgstr "<p>1. 本站所提供下载的资料仅供学习和研究使用，不得用于任何商业用途。如本站不慎侵犯你的版权请联系我(87005971@qq.com)，我将及时处理，并撤下相关内容！</p><p>2. 本站所提供下载的资料版权归该资料的合法拥有者所有，请用户在下载使用前必须详细阅读并遵守资料作者的“使用许可协议”。</p>"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:199
+msgid "File info"
+msgstr "文件信息"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:202
+msgid "File name"
+msgstr "文件名"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:203
+msgid "File hash"
+msgstr "文件Hash"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:204
+msgid "File size"
+msgstr "文件大小"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:205
+msgid "File uploaded"
+msgstr "文件上传日期"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:206
+msgid "File updated"
+msgstr "文件更新日期"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:207
+msgid "File description"
+msgstr "文件描述"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:211
+msgid "Download URL"
+msgstr "下载地址"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:217
+msgid "Other notice"
+msgstr "如无特殊说明，本文件解压密码为：<span style=\"color:#ff0000;\">www.nuodou.com</span>。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:221
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:377
+msgid "Download"
+msgstr "下载"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:245
+msgid "Error: Content already sent! Please contact the site administrator to solve this problem."
+msgstr "错误：内容已经被发送！请联系站点管理员解决此问题。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:255
+msgid "Error: header already sent! Please contact the site administrator to solve this problem."
+msgstr "错误：HTTP头部信息已经被发送！请联系站点管理员解决此问题。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:376
+msgid "Enter File ID (Separate Multiple IDs By A Comma)"
+msgstr "输入附件 ID （多个ID请用 , 分隔）"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:378
+msgid "Insert File Download"
+msgstr "插入下载文件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:411
+msgid "Settings"
+msgstr "设置"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:427
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:440
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:636
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/upload_handler.php:26
+msgid "Add File"
+msgstr "添加文件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:507
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:510
+msgid "Add Attachment"
+msgstr "添加附件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:568
+msgid "Invalid File ID or File Name."
+msgstr "非法ID或文件名。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:583
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:589
+msgid "Please do not leech."
+msgstr "请到本站下载。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:597
+msgid "File does not exist."
+msgstr "文件不存在。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:607
+msgid "Error: can not read the file!Please contact the webmaster."
+msgstr "错误：无法从服务器读取文件！请联系管理员。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:612
+msgid "Error: filesize is zero."
+msgstr "错误：文件大小为0"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:856
+#, php-format
+msgid "<div style=\"color:#FF0000;\"><strong>Yang AttachmentManager : </strong> The download file maybe has been deleted (File ID:%s).</div>"
+msgstr "<div style=\"color:#FF0000;\"><strong>Yang AttachmentManager : </strong>　下载文件可能已经被从数据库删除了 (文件 ID:%s).</div>"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:948
+msgid "TiB"
+msgstr "TB"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:952
+msgid "GiB"
+msgstr "GB"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:956
+msgid "MiB"
+msgstr "MB"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:960
+msgid "KiB"
+msgstr "KB"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam.class.php:1043
+#, php-format
+msgid "Note: There is a file embedded within this post, please visit <a href=\"%s\">this post</a> to download the file."
+msgstr "注意：该页面嵌入了下载文件，请访问 <a href=\"%s\">该页面</a>下载该文件。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:95
+#, php-format
+msgid "Error: the download path %s does not exists!"
+msgstr "错误：下载目录 %s 不存在！"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:101
+#, php-format
+msgid "Error: the download path %s is unwriteable,Please change the permission to <strong>0777</strong>!"
+msgstr "错误：下载文件存放的路径 %s 不可写，请更改其权限为<strong>0777</strong>!"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:556
+msgid "Add A File"
+msgstr "添加一个文件"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:582
+#, php-format
+msgid "Maximum file size is <strong>%s</strong>."
+msgstr "文件大小最大限制为<strong>%s</strong>."
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:583
+#, php-format
+msgid "Maximum upload time is <strong>%s seconds</strong>."
+msgstr "上传时间最长限制为<strong>%s</strong>秒."
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:591
+msgid "Save to local host"
+msgstr "保存到本地服务器"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:592
+msgid "to dir "
+msgstr "到目录:"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:596
+msgid "The URL must contain <span style=\"color:red;\">http://</span> or <span style=\"color:red;\">ftp://</span> in front."
+msgstr "网址前必须包含<span style=\"color:red;\">http://</span> 或 <span style=\"color:red;\">ftp://</span>。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:596
+msgid "For directory please include <span style=\"color:red;\">/</span> in front!"
+msgstr "本地目录，必须以 <span style=\"color:red;\">/</span> 开始，如：/remote/2012"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:611
+msgid "Leave blank for auto detection. Auto detection sometimes will not work for Remote File."
+msgstr "留空自动检测。注：对于远程文件，自动检测有时会检测不到正确的文件大小。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:618
+msgid "Starting File Hits:"
+msgstr "初始下载量："
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:657
+#, php-format
+msgid "Error:File '%s ' has already been added!The file_id is:<strong>%d</strong>"
+msgstr "错误：文件 '%s '已经上传过了！文件id是:<strong>%d</strong>"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:691
+#, php-format
+msgid "File Size Too Large. Maximum Size Is %s"
+msgstr "文件大小超过最大限制（%s ）"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:698
+msgid "Please select a File to be upload!"
+msgstr "请选择要上传的文件！"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:727
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:733
+msgid "Error In Uploading File"
+msgstr "上传文件到服务器时出错"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:774
+msgid "Error In downloading File to local host!"
+msgstr "下载文件到本地服务器时出错!"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:779
+msgid "Downloading File to local host successfuly!"
+msgstr "成功下载文件到本地服务器!"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:809
+msgid "Error:File name REQUIRED!Please assign a file name for displaying."
+msgstr "错误：文件名必需！请填写文件名。"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:829
+#, php-format
+msgid "Error In Adding File '%s (%s)' To Database!"
+msgstr "添加文件 %s (%s )到数据库时出错!"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:833
+#, php-format
+msgid "File '%s (%s)' Added Successfully!<br/><strong>File ID is: %s </strong>"
+msgstr "文件 '%s (%s)' 添加成功!<br/><strong>文件ID 是: %s </strong>"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:838
+msgid "Insert new file into post"
+msgstr "插入文件到文章"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:858
+#, php-format
+msgid "Error In Deleting File '%s (%s)' From Server"
+msgstr "从服务器物理删除文件 '%s (%s)' 时出错！"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:862
+#, php-format
+msgid "File '%s (%s)' Deleted From Server Successfully"
+msgstr "从服务器物理删除文件 '%s (%s)' 成功！"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:868
+#, php-format
+msgid "Error In Deleting File '%s (%s)'"
+msgstr "删除文件 '%s (%s)'  出错"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/yangam_admin.class.php:872
+#, php-format
+msgid "File '%s (%s)' Deleted Successfully"
+msgstr "文件 '%s (%s)' 成功删除！"
+
+msgid "Error In Trashing File '%s'"
+msgstr "回收文件 '%s (%s)'  出错"
+
+msgid "File '%s' Trashed Successfully"
+msgstr "文件 '%s' 成功放入回收站！"
+
+msgid "Error In Untrashing File '%s'"
+msgstr "还原文件 '%s (%s)'  出错"
+
+msgid "File '%s' Untrashed Successfully"
+msgstr "文件 '%s' 成功还原！"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_post.php:37
+#, php-format
+msgid "%d Files Attached to this post"
+msgstr "%d 个文件附加到此文章"
+
+#: D;\code\wordpress\wp-content\plugins\yang-attachmentmanager/includes/attachment_post.php:48
+msgid "Date/Time Added"
+msgstr "上传日期/时间 "
+
+#: 错误集合
+msgid "Oh NO! You do not have permission to access this page."
+msgstr "Oh NO! 您没有权限访问此页面."
+
+#~ msgid "Add Attachment %s"
+#~ msgstr "添加附件 %s"
+
+#~ msgid "Blue"
+#~ msgstr "蓝"
+
+#~ msgid "Gray"
+#~ msgstr "灰"
+
+#, fuzzy
+#~ msgid "Local File"
+#~ msgstr "文件总数："
+
+#~ msgid "Error in adding remote file."
+#~ msgstr "远程文件添加失败！"
+
+#~ msgid "Pages"
+#~ msgstr "页面"
+
+#~ msgid "No Attachment Option Updated"
+#~ msgstr "没有选项设置被更新。"
+
+#~ msgid ""
+#~ "Displaying <strong>%s</strong> To <strong>%s</strong> Of <strong>%s</"
+#~ "strong> Files ,"
+#~ msgstr ""
+#~ "当前显示从<strong>%s</strong>到 <strong>%s</strong> /共 <strong>%s</"
+#~ "strong> 个文件，"
+
+#, fuzzy
+#~ msgid ""
+#~ "Displayed  the download info in a popup window  when you embedded a file "
+#~ "within a post or a page and users <strong>DO NOT</strong> have permission "
+#~ "to download the file."
+#~ msgstr ""
+#~ "当你在文章或页面中嵌入了文件并且用户 <strong>没有</strong>权限下载该文件时"
+#~ "会显示这个。"
+
+#~ msgid "Download Embedded File"
+#~ msgstr "下载嵌入文件"
+
+#~ msgid "Uploads"
+#~ msgstr "上传文件"
+
+#, fuzzy
+#~ msgid "WordPress"
+#~ msgstr "WordPress 表"
+
+#~ msgid "Category"
+#~ msgstr "分类"
+
+#~ msgid "File Category:"
+#~ msgstr "文件分类："
+
+#~ msgid "File Category"
+#~ msgstr "文件分类"
+
+#~ msgid "Download Page URL"
+#~ msgstr "下载页面URL"
+
+#~ msgid "Download Nice Permalink"
+#~ msgstr "使用固定链接"
+
+#~ msgid "Download Categories"
+#~ msgstr "下载分类"
+
+#~ msgid "Download Page URL:"
+#~ msgstr "下载页面URL："
+
+#~ msgid "The url to the attachments page (without trailing slash)."
+#~ msgstr "到下载页面的URL （最后不要加 / ）"
+
+#~ msgid "Download Categories:"
+#~ msgstr "下载分类："
+
+#~ msgid "Start each entry on a new line."
+#~ msgstr "每项一行。"
+
+#~ msgid ""
+#~ "The <strong>first line</strong> will have a category id of <strong>1</"
+#~ "strong>."
+#~ msgstr "<strong>第一行</strong>的分类ID为 <strong>1</strong>."
+
+#~ msgid ""
+#~ "The <strong>2nd line</strong> will have a category id of <strong>2</"
+#~ "strong>."
+#~ msgstr "<strong>第二行</strong>的分类ID为 <strong>2</strong>."
+
+#~ msgid "And so on and so forth."
+#~ msgstr "依此类推。"
+
+#~ msgid "Attachment Listing Options"
+#~ msgstr "附件列表选项："
+
+#~ msgid "Sort Attachments By:"
+#~ msgstr "附件排序："
+
+#~ msgid "Sort Order Of attachments:"
+#~ msgstr "排序方式："
+
+#~ msgid "No. Of attachments Per Page:"
+#~ msgstr "每页下载数量："
+
+#~ msgid "Group By:"
+#~ msgstr "分组："
+
+#~ msgid "None"
+#~ msgstr "无"
+
+#~ msgid "Categories"
+#~ msgstr "分类"
+
+#~ msgid "Download RSS Options"
+#~ msgstr "RSS选项："
+
+#~ msgid "Sort attachments In Feed By:"
+#~ msgstr "在Feed 中以？排序:"
+
+#~ msgid "File Last Updated Date"
+#~ msgstr "文件最后更新日期"
+
+#~ msgid "Sorting are done in descending order."
+#~ msgstr "以降序方式排序。"
+
+#~ msgid "No. Of attachments In Feed:"
+#~ msgstr "在Feed中显示下载文件数量："
+
+#~ msgid " attachments RSS Feed"
+#~ msgstr "RSS Feed"
+
+#~ msgid "File Size: %s"
+#~ msgstr "文件大小：%s"
+
+#~ msgid "File Hits: %s"
+#~ msgstr "文件下载量：%s"
+
+#~ msgid "File Last Updated: %s"
+#~ msgstr "文件最后更新：%s"
+
+#~ msgid "Search"
+#~ msgstr "搜索"
+
+#~ msgid "No Files Found."
+#~ msgstr "找不到文件。"
+
+#~ msgid "Template Variables"
+#~ msgstr "模板变量"
+
+#~ msgid "total"
+#~ msgstr "总共"
+
+#~ msgid "Page %s of %s"
+#~ msgstr "页面： %s / %s"
+
+#~ msgid "&laquo; First"
+#~ msgstr "&laquo; 第一"
+
+#~ msgid "Last &raquo;"
+#~ msgstr "最后&raquo;"
+
+#~ msgid "N/A"
+#~ msgstr "N/A"

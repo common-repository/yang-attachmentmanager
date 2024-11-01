@@ -1,0 +1,39 @@
+/**
+ * $Id: yang-style.css 2012-05-01 11:06:09 haibor $
+ */
+
+#icon-attachment {
+	background: url("images/att_20.png?ver=20120501") no-repeat transparent;
+}
+
+.yangam-tab td ,.yangam-tab td select {
+    max-width: 520px;
+}
+
+.yangam-tab {
+	 margin: 1em !important;
+}
+
+.attachment-page-item,.attachment-page-item-current {
+	margin:3px 5px;
+	padding:6px 10px;
+}
+
+.attachment-page-item-current{
+	color:#464646;
+}
+a.attachment-page-item:hover {
+	background-color:#ececec;
+}
+
+
+#yangam-filetree {
+	background: none repeat scroll 0 0 #FFFFFF;
+    border-color: #BBBBBB #FFFFFF #FFFFFF #BBBBBB;
+    border-style: solid;
+    border-width: 1px;
+    height: 400px;
+    overflow: scroll;
+    padding: 5px;
+    width: 350px;
+}
